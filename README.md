@@ -20,7 +20,7 @@ To exit the PIE, press `ESC`.
 To run this project in VR, select the dropdown menu and select "VR Preview".
 
 This project supports mouse-movement for camera control, but is designed to be viewed in VR.
-WASD controls the player placement.
+`W`, `A`, `S` and `D` controls the player movement.
 
 ## Levels
 
